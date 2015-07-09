@@ -4,7 +4,7 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/drone/drone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Documentation
-
+## Documentation
 * [Installation](http://readme.drone.io/setup/install/ubuntu/)
 * [User Guide](http://readme.drone.io/usage/overview/)
 * [API Reference](http://readme.drone.io/api/overview/)
